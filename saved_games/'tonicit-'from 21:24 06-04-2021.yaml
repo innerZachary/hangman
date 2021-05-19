@@ -1,0 +1,15 @@
+--- !ruby/object:Game
+secret_word: tonicity
+wrong_guess_count: 0
+secret_display:
+- t
+- o
+- n
+- i
+- c
+- i
+- t
+- "-"
+wrong_guess_bank: []
+game_won: false
+game_lost: false

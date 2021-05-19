@@ -1,0 +1,14 @@
+--- !ruby/object:Game
+secret_word: garrett
+wrong_guess_count: 0
+secret_display:
+- g
+- a
+- r
+- r
+- e
+- t
+- t
+wrong_guess_bank: []
+game_won: true
+game_lost: false

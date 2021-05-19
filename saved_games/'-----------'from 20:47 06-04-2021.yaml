@@ -1,0 +1,18 @@
+--- !ruby/object:Game
+secret_word: treacherous
+wrong_guess_count: 0
+secret_display:
+- "-"
+- "-"
+- "-"
+- "-"
+- "-"
+- "-"
+- "-"
+- "-"
+- "-"
+- "-"
+- "-"
+wrong_guess_bank: []
+game_won: false
+game_lost: false

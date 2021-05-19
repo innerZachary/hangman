@@ -1,0 +1,20 @@
+--- !ruby/object:Game
+secret_word: interrogatory
+wrong_guess_count: 0
+secret_display:
+- i
+- n
+- t
+- e
+- r
+- r
+- o
+- g
+- a
+- t
+- o
+- r
+- "-"
+wrong_guess_bank: []
+game_won: false
+game_lost: false

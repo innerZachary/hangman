@@ -1,0 +1,20 @@
+--- !ruby/object:Game
+secret_word: blowout
+wrong_guess_count: 6
+secret_display:
+- "-"
+- "-"
+- o
+- "-"
+- o
+- "-"
+- "-"
+wrong_guess_bank:
+- z
+- m
+- p
+- q
+- g
+- r
+game_won: false
+game_lost: false

@@ -1,0 +1,10 @@
+--- !ruby/object:Game
+secret_word: nit
+wrong_guess_count: 0
+secret_display:
+- n
+- "-"
+- t
+wrong_guess_bank: []
+game_won: false
+game_lost: false
